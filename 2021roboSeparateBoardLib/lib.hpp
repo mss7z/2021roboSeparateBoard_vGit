@@ -9,5 +9,6 @@
 #include "aPid.hpp"
 #include "aRohmMD.hpp"
 #include "aKMD.hpp"
+#include "aSoftPWM.hpp"
 
 #endif
